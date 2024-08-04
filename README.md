@@ -1,4 +1,4 @@
-# Swisstronik Testnet 2.0 // Deploy Proxy.
+# Swisstronik Testnet 2.0 (Deploy Proxy).
 
 Link : [Click!](https://www.swisstronik.com/testnet2/dashboard)
 
@@ -7,7 +7,7 @@ Link : [Click!](https://www.swisstronik.com/testnet2/dashboard)
 ### 1. Clone Repository
 
 ```bash
-git clone https://github.com/ragilzy/swisstronik-deploy-proxy.git
+git clone https://github.com/sijagoan/swisstronik-deploy-proxy.git
 ```
 
 ```bash
@@ -72,6 +72,4 @@ npm run upgrade
 
 ### Finished.
 
-Github  : [ragilzy](https://github.com/ragilzy)
-
-Swisstronik Address Testnet 0xBD686f99674d8c96597f9B70a2e27EfF3c8BEF74
+Address Testnet 0xE07E1B83d974E90EE489D2aFa227B676D2a43B3F
